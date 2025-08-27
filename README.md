@@ -52,13 +52,6 @@ Control your glowing paddle with your mouse and challenge a retro AI opponent in
 
 - **Colors & Effects:** Tweak the neon color variables in `game.js` and CSS for your own arcade flavor.
 - **Difficulty:** Adjust AI reaction speed or ball speed in `game.js` for a tougher challenge.
-
----
-
-## 📸 Screenshots
-
-![Neon Pong Screenshot](https://user-images.githubusercontent.com/imaginary/neon-pong-screenshot.png)
-
 ---
 
 ## 🙏 Credits
@@ -75,4 +68,4 @@ This project is open source and free to use for educational or personal purposes
 ---
 
 Enjoy your retro-neon Pong experience!  
-Made with ❤️ by [Your Name]
+Made with ❤️ by [ARAVINDH]
